@@ -1,8 +1,9 @@
-Hello Guys,
+Hello Guys,
+Basic steps in git 	
+install git using -- sudo yum install git -y= (sudo because it has root user previlages) only root user can install softwares
+  created new directory -- mkdir axisbank
+  cd axisbank ---enter in that directory
+  Created empty local repository -- git init
+  once created repository default branch name "master" will be created 
+  Thank you.
 
-install git using = sudo yum install git -y (command)
-create new directory = mkdir axisbank
-stay in newly created directory = cd axisbank
-print working directory = pwd
-Create git empty local repository = git init
-Git version =   git --version
